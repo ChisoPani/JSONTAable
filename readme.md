@@ -7,3 +7,5 @@ Position	Name	Apperiences	Assists	Clean Sheets
 
 I forgot to add the goals, you can do it and fill out the sheet with your own data. 
 Then just goto any excel to json converter site and use that as the data.json file.
+
+I also used datatables to sort the table.
