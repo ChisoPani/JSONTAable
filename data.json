@@ -1,0 +1,74 @@
+﻿{
+    "Sheet1": [
+        {
+            "Position": "ST",
+            "Name": "Ronaldo",
+            "Apperiences": "50",
+            "Assists": "11",
+            "Clean_Sheets": "10"
+        },
+        {
+            "Position": "LW",
+            "Name": "Mane",
+            "Apperiences": "50",
+            "Assists": "5",
+            "Clean_Sheets": "11"
+        },
+        {
+            "Position": "CAM",
+            "Name": "Muller",
+            "Apperiences": "49",
+            "Assists": "13",
+            "Clean_Sheets": "13"
+        },
+        {
+            "Position": "RM",
+            "Name": "Gnabry",
+            "Apperiences": "44",
+            "Assists": "8",
+            "Clean_Sheets": "7"
+        },
+        {
+            "Position": "CDM",
+            "Name": "Kimich",
+            "Apperiences": "48",
+            "Assists": "5",
+            "Clean_Sheets": "12"
+        },
+        {
+            "Position": "CM",
+            "Name": "Goretzka",
+            "Apperiences": "50",
+            "Assists": "6",
+            "Clean_Sheets": "15"
+        },
+        {
+            "Position": "CM",
+            "Name": "Sabitzer",
+            "Apperiences": "34",
+            "Assists": "1",
+            "Clean_Sheets": "9"
+        },
+        {
+            "Position": "LB",
+            "Name": "Davies",
+            "Apperiences": "47",
+            "Assists": "2",
+            "Clean_Sheets": "11"
+        },
+        {
+            "Position": "LM",
+            "Name": "Sane",
+            "Apperiences": "27",
+            "Assists": "1",
+            "Clean_Sheets": "0"
+        },
+        {
+            "Position": "LM",
+            "Name": "Coman",
+            "Apperiences": "11",
+            "Assists": "0",
+            "Clean_Sheets": "0"
+        }
+    ]
+}
